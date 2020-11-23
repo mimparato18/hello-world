@@ -18,6 +18,8 @@ public class TestGit {
         // TODO code application logic here
         System.out.print("Hello world!");
         System.out.print("This should appear on the Developer branch");
+        System.out.print("This should appear inside Netbenas IDE");
+        
     }
     
 }
