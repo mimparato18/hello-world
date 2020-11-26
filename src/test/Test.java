@@ -18,7 +18,6 @@ public class Test {
         // TODO code application logic here
         System.out.println("Hello world!");
         System.out.println("Plis help");
-        System.out.println("Plis helpaqef");
         System.out.println("Plis helpef");
         System.out.println("Plis help, i'm losing my mind");
         
