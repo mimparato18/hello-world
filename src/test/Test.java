@@ -3,22 +3,24 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package testgit;
+package test;
 
 /**
  *
  * @author marku
  */
-public class TestGit {
+public class Test {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Hello world!\n");
-        System.out.print("This should appear on the Developer branch\n");
-        System.out.print("This should appear inside Netbenas IDE\n");
+        System.out.println("Hello world!");
+        System.out.println("Plis help");
+        System.out.println("Plis helpef");
+        //remove
+        System.out.println("Plis help, i'm losing my mind");
         
     }
     
