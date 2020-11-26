@@ -16,9 +16,7 @@ public class TestGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Hello world!\n");
-        System.out.print("This should appear on the Developer branch\n");
-        System.out.print("This should appear inside Netbenas IDE\n");
+        System.out.print("This should appear in a new branch");
         
     }
     
