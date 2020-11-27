@@ -29,3 +29,5 @@ hs_err_pid*
 *.mf
 */JavaFormicaTest/nbproject/*
 */sIgnoreTest/nbproject/*
+build.*
+nbproject.*
