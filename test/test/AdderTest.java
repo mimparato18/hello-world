@@ -28,7 +28,7 @@ public class AdderTest {
     }
 
     @AfterClass
-    public static void tearUpClass() throws Exception {
+    public static void tearDownClass() throws Exception {
     }
 
     @Before
