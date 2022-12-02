@@ -23,14 +23,19 @@ public class AdderTest {
     @BeforeClass
     public static void setUpClass() throws Exception {
         System.out.println("aiutami signore");
-        System.out.println("aiutami signora");
+        System.out.println("aiutami signora"); System.out.println("aiutami signora");
+        System.out.println("aiutami signore"); System.out.println("aiutami signora");
+        System.out.println("aiutami signore"); System.out.println("aiutami signora");
+        System.out.println("aiutami signore");
         System.out.println("aiutami signore");
         System.out.println("aiutami signora");
     }
 
     @AfterClass
     public static void tearDownClass() throws Exception {
-    }
+    
+     System.out.println("aiutami signora");
+        System.out.println("aiutami signore");}
 
     @Before
     public void setUp() throws Exception {
