@@ -24,8 +24,7 @@ public class AdderTest {
     public static void setUpClass() throws Exception {
         System.out.println("aiutami signore");
         System.out.println("aiutami signora");
-        System.out.println("aiutami signore");
-        System.out.println("aiutami signora");
+        
     }
 
     @AfterClass
